@@ -1,0 +1,49 @@
+{
+    "name": "cordova-plugin-mfp-jsonstore",
+    "version": "8.0.2016062815",
+    "description": "IBM MobileFirst Platform Foundation Cordova Plugin JSONStore",
+    "cordova": {
+        "id": "cordova-plugin-mfp-jsonstore",
+        "platforms": [
+            "android",
+            "ios",
+            "windows"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://hub.jazz.net/git/ibmmfpf/cordova-plugin-mfp-jsonstore"
+    },
+    "keywords": [
+        "cordova",
+        "ibm",
+        "worklight",
+        "mobilefirst",
+        "mfp",
+        "jsonstore",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios",
+        "cordova-windows"
+    ],
+    "engines": [
+        {
+            "name": "cordova-android",
+            "version": ">=5.1.1 <6"
+        },
+        {
+            "name": "cordova-ios",
+            "version": ">=4.1.1 <5"
+        },
+        {
+            "name": "cordova-windows",
+            "version": ">=4.3.2 <5"
+        },
+        {
+            "name": "cordova-plugman",
+            "version": ">=6.1.1 <7"
+        }
+    ],
+    "author": "IBM",
+    "license": "SEE LICENSE IN LICENSE.TXT"
+}
